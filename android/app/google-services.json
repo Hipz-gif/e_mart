@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67073294980",
+    "project_id": "e-mart-6edd9",
+    "storage_bucket": "e-mart-6edd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67073294980:android:e415882b97638161b978d1",
+        "android_client_info": {
+          "package_name": "com.example.e_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBZKQ6cVFq2DCcsE0o1PX11l1y7_6450"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
